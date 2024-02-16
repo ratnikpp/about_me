@@ -3,4 +3,4 @@
 Меня зовут Павел!
 Я разработчик.
 
-[разработчик](img/readme_images.jpg)
+![разработчик](/img/readme_images.jpg)
